@@ -2,26 +2,45 @@
 
 <h4>Make sure to have redis downloaded locally</h4>
 <h4>🔹 Windows</h4> <ul> <li>Download Redis for Windows from <a href="https://github.com/microsoft/redis/releases">here</a></li> <li>Extract and navigate to the folder</li> <li>Run the following command in PowerShell or Command Prompt:</li> </ul>
+<pre>
+<code>
 redis-server
+</code>
+</pre>
 <h4>🔹 Mac (via Homebrew)</h4> <ul> <li>Install Redis using Homebrew:</li> </ul>
+<pre>
+<code>
 brew install redis
 <ul> <li>Start Redis:</li> </ul>
+<pre>
+<code>
 redis-server
+</code>
+</pre>
+
 <h4>🔹 Linux (Debian/Ubuntu)</h4> <ul> <li>Install Redis:</li> </ul>
+<pre>
+<code>
 sudo apt update
 sudo apt install redis
+</code>
+</pre>
 <ul> <li>Start Redis:</li> </ul>
+<pre>
+<code>
 redis-server
+</code>
+</pre>
 
 
 <pre>
 <code>
 1. Clone the repository:
-   git clone https://github.com/AbhinavPatel271/Educational-Flashcard-App.git
+   git clone https://github.com/AbhinavPatel271/Weather-and-News-Aggregator-API.git
 
 2. Navigate to the project directory:
-   cd Educational-Flashcard-App
-   cd my-react-app
+   cd Weather-and-News-Aggregator-API
+   cd WEATHER_AND_NEWS_AGGREGATOR_API
 
 3. Install dependencies:
    npm install
