@@ -1,12 +1,8 @@
 <h2>🚀 How to Run the Project locally:</h2>
 
-<h4>Make sure to have redis downloaded locally</h4>
-<h4>🔹 Windows</h4> <ul> <li>Download Redis for Windows from <a href="https://github.com/microsoft/redis/releases">here</a></li> <li>Extract and navigate to the folder</li> <li>Run the following command in PowerShell or Command Prompt:</li> </ul>
-<pre>
-<code>
-redis-server
-</code>
-</pre>
+<h4>Make sure to have redis downloaded locally to enable caching</h4>
+<h4>🔹 Windows</h4> <ul> <li>Download Redis for Windows by following the instructions <a href="https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/">here</a></li> 
+   
 <h4>🔹 Mac (via Homebrew)</h4> <ul> <li>Install Redis using Homebrew:</li> </ul>
 <pre>
 <code>
