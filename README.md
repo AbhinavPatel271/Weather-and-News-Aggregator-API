@@ -34,22 +34,23 @@ redis-server
 </code>
 </pre>
 
-
+<h3>Further instructions: </h3>
+<ol>
+   <li>Clone the repository</li>
+   <li>Navigate to the project directory</li>
+   <li>Install dependencies</li>
+   <li>Run the server locally</li>
+</ol>
 <pre>
 <code>
-1. Clone the repository:
    git clone https://github.com/AbhinavPatel271/Weather-and-News-Aggregator-API.git
 
-2. Navigate to the project directory:
    cd Weather-and-News-Aggregator-API
    cd WEATHER_AND_NEWS_AGGREGATOR_API
 
-3. Install dependencies:
    npm install
 
-4. Run the local server
    node index.js
-
 </code>
 </pre>
 
