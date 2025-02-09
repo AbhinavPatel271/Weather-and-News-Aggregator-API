@@ -11,6 +11,8 @@ redis-server
 <pre>
 <code>
 brew install redis
+</code>
+</pre>
 <ul> <li>Start Redis:</li> </ul>
 <pre>
 <code>
