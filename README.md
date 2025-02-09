@@ -1,3 +1,41 @@
+<h2>🚀 How to Run the Project locally:</h2>
+
+<h4>Make sure to have redis downloaded locally</h4>
+<h4>🔹 Windows</h4> <ul> <li>Download Redis for Windows from <a href="https://github.com/microsoft/redis/releases">here</a></li> <li>Extract and navigate to the folder</li> <li>Run the following command in PowerShell or Command Prompt:</li> </ul>
+redis-server
+<h4>🔹 Mac (via Homebrew)</h4> <ul> <li>Install Redis using Homebrew:</li> </ul>
+brew install redis
+<ul> <li>Start Redis:</li> </ul>
+redis-server
+<h4>🔹 Linux (Debian/Ubuntu)</h4> <ul> <li>Install Redis:</li> </ul>
+sudo apt update
+sudo apt install redis
+<ul> <li>Start Redis:</li> </ul>
+redis-server
+
+
+<pre>
+<code>
+1. Clone the repository:
+   git clone https://github.com/AbhinavPatel271/Educational-Flashcard-App.git
+
+2. Navigate to the project directory:
+   cd Educational-Flashcard-App
+   cd my-react-app
+
+3. Install dependencies:
+   npm install
+
+4. Run the local server
+   node index.js
+
+</code>
+</pre>
+
+
+
+
+
 # 🌦️📰 Weather & News Aggregator API
 
 ## 📌 Overview
