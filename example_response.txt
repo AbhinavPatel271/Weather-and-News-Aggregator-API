@@ -1,0 +1,204 @@
+{
+    "cityCoordinates": {
+        "lon": 75.8333,
+        "lat": 22.7179
+    },
+    "weather": {
+        "time": {
+            "sunriseTime": "2/9/2025, 7:02:23 AM",
+            "currentTime": "2/9/2025, 5:09:00 PM",
+            "sunsetTime": "2/9/2025, 6:19:29 PM"
+        },
+        "main": "Clear",
+        "description": "clear sky",
+        "temp": "29 ℃",
+        "temp_feels_like": "28 ℃",
+        "temp_min": "29 ℃",
+        "temp_max": "29 ℃",
+        "pressure": "1011 hPa",
+        "humidity": "26 %",
+        "visibility": "10000 meter",
+        "windSpeed": "3.7 meter/sec",
+        "windDirecton": "264 degress",
+        "windGust": "5.5 meter/sec",
+        "cloudiness": "1 %"
+    },
+    "weatherForecast": [
+        {
+            "date": "2025-02-10 15:00:00",
+            "main": "Clear",
+            "description": "clear sky",
+            "temp": "23 ℃",
+            "temp_feels_like": "21 ℃",
+            "temp_min": "23 ℃",
+            "temp_max": "23 ℃",
+            "pressure": "1014 hPa",
+            "humidity": "19 %",
+            "visibility": "10000 meter",
+            "windSpeed": "2.72 meter/sec",
+            "windDirecton": "311 degress",
+            "windGust": "2.81 meter/sec",
+            "cloudiness": "9 %"
+        },
+        {
+            "date": "2025-02-11 15:00:00",
+            "main": "Clear",
+            "description": "clear sky",
+            "temp": "22 ℃",
+            "temp_feels_like": "20 ℃",
+            "temp_min": "22 ℃",
+            "temp_max": "22 ℃",
+            "pressure": "1014 hPa",
+            "humidity": "18 %",
+            "visibility": "10000 meter",
+            "windSpeed": "3.64 meter/sec",
+            "windDirecton": "296 degress",
+            "windGust": "4.79 meter/sec",
+            "cloudiness": "5 %"
+        },
+        {
+            "date": "2025-02-12 15:00:00",
+            "main": "Clear",
+            "description": "clear sky",
+            "temp": "22 ℃",
+            "temp_feels_like": "21 ℃",
+            "temp_min": "22 ℃",
+            "temp_max": "22 ℃",
+            "pressure": "1014 hPa",
+            "humidity": "27 %",
+            "visibility": "10000 meter",
+            "windSpeed": "3.31 meter/sec",
+            "windDirecton": "311 degress",
+            "windGust": "3.79 meter/sec",
+            "cloudiness": "0 %"
+        },
+        {
+            "date": "2025-02-13 15:00:00",
+            "main": "Clear",
+            "description": "clear sky",
+            "temp": "22 ℃",
+            "temp_feels_like": "20 ℃",
+            "temp_min": "22 ℃",
+            "temp_max": "22 ℃",
+            "pressure": "1014 hPa",
+            "humidity": "19 %",
+            "visibility": "10000 meter",
+            "windSpeed": "2.32 meter/sec",
+            "windDirecton": "22 degress",
+            "windGust": "2.35 meter/sec",
+            "cloudiness": "0 %"
+        }
+    ],
+    "newsArticles": [
+        {
+            "sourceName": "The Times of India",
+            "author": "TNN",
+            "title": "Court hands 3 death sentences to child rapist",
+            "description": "India News: A Pocso court in Indore on Friday awarded three separate death penalties to a man accused of sexually assaulting a seven-year-old girl in 2024.",
+            "content": "Check out the latest news about Delhi Election Results, including key constituencies such as New Delhi, Kalkaji, Jangpura, Okhla, Patparganj, Ballimaran, Madipur, Hari Nagar, Rajinder Nagar, Tri Naga… [+45 chars]",
+            "URLtoNews": "https://timesofindia.indiatimes.com/india/court-hands-3-death-sentences-to-child-rapist/articleshow/118052301.cms",
+            "URLtoNewsImage": "https://static.toiimg.com/thumb/msid-118052586,width-1070,height-580,imgsize-834203,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2025-02-08T05:04:38Z"
+        },
+        {
+            "sourceName": "Thehillstimes.in",
+            "author": "The Hills Times",
+            "title": "Two Indore schools get bomb threat emails, turn out to be hoax; cases filed",
+            "description": "INDORE, Feb 4: Two private schools in Madhya Pradesh’s Indore city were evacuated after they received bomb threats through emails on Tuesday, which later turned out to be hoax, police said. The police then registered two cases against unidentified persons for…",
+            "content": "INDORE, Feb 4: Two private schools in Madhya Pradeshs Indore city were evacuated after they received bomb threats through emails on Tuesday, which later turned out to be hoax, police said.\r\nThe polic… [+1949 chars]",
+            "URLtoNews": "https://thehillstimes.in/national/two-indore-schools-get-bomb-threat-emails-turn-out-to-be-hoax-cases-filed",
+            "URLtoNewsImage": "https://thehillstimes.in/wp-content/uploads/2025/02/New-Project10-9.jpg",
+            "publishedAt": "2025-02-04T22:25:00Z"
+        },
+        {
+            "sourceName": "Business Today",
+            "author": "Business Today Desk",
+            "title": "'Tu banda goat hai, mere paas...': Shark Tank India 4's Aman Gupta seals big deal with EM5 founder Shashank Chourey",
+            "description": "Shashank Chourey, the founder of the Indore-based perfume brand EM5, came on the show to pitch his business.",
+            "content": "boAt Lifestyle co-founder and CEO Aman Gupta sealed a huge deal on a recent episode of Shark Tank India season 4 amid some high-voltage drama. Shashank Chourey, the founder of the Indore-based perfum… [+2514 chars]",
+            "URLtoNews": "https://www.businesstoday.in/latest/trends/story/tu-banda-goat-hai-mere-paas-shark-tank-india-4s-aman-gupta-seals-big-deal-with-em5-founder-shashank-chourey-463296-2025-02-04",
+            "URLtoNewsImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202502/67a19fa1e5096-he-sought-an-investment-of-70-lakh-for-2-per-cent-stake-in-his-company--taking-his-companys-valuat-040318582-16x9.png",
+            "publishedAt": "2025-02-04T05:06:20Z"
+        },
+        {
+            "sourceName": "The Indian Express",
+            "author": "Not Found",
+            "title": "Man from J&K held for cheating women of Rs 2 crore through matrimonial sites",
+            "description": "After the victim lodged a complaint against the accused, police launched a search for him. Acting on a tip-off, a police team nabbed him from Indore in Madhya Pradesh. Cops produced him before a court in Pune on Thursday.",
+            "content": "Pune city police have arrested a married man from Jammu and Kashmir for allegedly cheating a Pune woman of Rs 45 lakh after developing contacts with her through a matrimonial website.\nPolice said the accused, identified as Amar Premlal Verma (38), ev... [1655 chars]",
+            "URLtoNews": "https://indianexpress.com/article/cities/pune/man-from-jk-held-for-cheating-women-of-rs-2-crore-through-matrimonial-sites-9821826/",
+            "URLtoNewsImage": "https://images.indianexpress.com/2025/02/pune-police_77a0aa.jpg",
+            "publishedAt": "2025-02-06T18:02:29Z"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore: Woman Teacher Killed In Hit-&-Run Days Before Husband’s Death Anniversary",
+            "description": "None",
+            "content": "Her family members said that she was a teacher at Chameli Devi School and also conducted tuition classes in the evening. She would leave for Gumasta Nagar at 5 PM daily and return home at around 8:15 pm.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indore-woman-teacher-killed-in-hit-run-days-before-husbands-death-anniversary",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2025-02-08/lfsr8bin/accident-rep.jpg",
+            "publishedAt": "2025-02-09 05:28:22"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore Honey Trap Case: Next Hearing On April 21 As Prosecution Fails To Present Witnesses’ List",
+            "description": "None",
+            "content": "The case took a new turn following the recent death of Harbhajan Singh, a former city engineer in Indore Municipal Corporation, who had filed a complaint that a group of women was blackmailing him with obscene videos.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indore-honey-trap-case-next-hearing-on-april-21-as-prosecution-fails-to-present-witnesses-list",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2024-09-04/ym37dena/Honey trap.jpg",
+            "publishedAt": "2025-02-08 22:06:52"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore: Man Beaten To Death Over Marriage Proposal In Dwarkapuri, Six Arrested",
+            "description": "None",
+            "content": "A 35-year-old man proposed marriage to a woman, after which her brother, along with five of his accomplices thrashed him to death on Friday. Both the deceased and the accused were residents of the same locality.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indore-man-beaten-to-death-over-marriage-proposal-in-dwarkapuri-six-arrested",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2024-02/3ca6be0b-70d8-473e-a2d7-00c5381a1953/Beating_a_child.jpg",
+            "publishedAt": "2025-02-08 21:36:20"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore Youth Rescued From Kidnappers In Jaipur, Two Arrested In 24 Hours",
+            "description": "None",
+            "content": "HomeIndoreIndore Youth Rescued From Kidnappers In Jaipur, Two Arrested In 24 Hours\n\nIndore Youth Rescued From Kidnappers In Jaipur, Two Arrested In 24 Hours\n\nThe accused had called the youth to Jaipur on pretext of making a car deal and held him hostage.\n\nStaff ReporterUpdated: Sunday, February 09, 2025, 03:02 AM IST\n\nRepresentative Image | IS\n\nBhopal (Madhya Pradesh): Pardeshipura police rescued a youth from abductors and arrested two people from Jaipur within 24 hours of receiving the complaint, police said on Saturday. The accused had called the youth to Jaipur on pretext of making a car deal and held him hostage.\n\nAccording to the police, a person lodged a complaint with Pardeshipura police on Wednesday stating that he received a call from his son Rahul’s mobile number and the caller told him that they had held his son hostage and demanded Rs 2 lakh via online transaction.\n\nMP Shocker! 11-Year-Old Mentally Challenged Girl Abducted & Raped; Die During Treatment In Bhopal\n\nUnderstanding the gravity of the matter, a police team was constituted which reached Jaipur based on technical and mobile phone assistance. They arrested the accused Vishal Devjani and Virendra Yadav, both of Jaipur. Police said the victim Rahul had gone to Khatu Shyam temple to offer prayers with his friends. He befriended one Ajeet through social media who asked him to sell his car for which he had sent a token amount to Rahul.\n\nRahul made a deal with two people in Jaipur and they sent him the money to Ajeet’s account to buy the car. As Rahul’s friend had not handed over the car to him, the buyers held him hostage. They asked him to either deliver the car or return their money. To get money, they called his father in Harda and asked for Rs 2 lakh. The police registered a case against the accused under section 140(2) (kidnapping for ransom or coercion) of BNS and arrested them.\n\nBombay HC Upholds Maharashtra Govt’s Policy On Vertical Slums, Rejects PIL Seeking Rehabilitation Benefits\n\nBombay HC Grants Bail To Former Bhiwandi Corporator, Cites Overcrowded Prisons And Trial Delays\n\nBombay HC Upholds Maharashtra Govt’s Transfer Of 73 Police Officers During Elections, Rejects Tribunal’s ‘Deemed Deputation’ Ruling\n\nMumbai: BJP Pushes For Early MCGM Elections After Delhi Win, Cites Governance Gaps Under Bureaucrats\n\nMP's Woman Sarpanch Gives Her Rights To Man, Signs Contract Of Transfer Of Power In Neemuch\n\nModus operandi\n\nThe accused used to contact people through social media sites and lure them with the promise of a commission for dealing in the buying and selling of old vehicles. They send their accomplices to finalise the deal with the victim and transfer him money online. Later, they demand money from the complainant under the pretext of handing over the car or the agreed amount.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indore-youth-rescued-from-kidnappers-in-jaipur-two-arrested-in-24-hours",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2025-02-08/gn1x4vtd/TiedUpHands.jpg",
+            "publishedAt": "2025-02-08 21:32:50"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Fpj Web Desk",
+            "title": "300-Member Pune Team Visits Indore, Plans to Adopt Its Cleanliness Model",
+            "description": "None",
+            "content": "HomeIndore300-Member Pune Team Visits Indore, Plans to Adopt Its Cleanliness Model\n\n300-Member Pune Team Visits Indore, Plans to Adopt Its Cleanliness Model\n\nThey expressed plans to implement Indore’s waste management system in Pune.\n\nFPJ Web DeskUpdated: Saturday, February 08, 2025, 01:47 PM IST\n\nIndore (Madhya Pradesh): A 300-member team from the Pune Municipal Corporation visited Indore to study its successful cleanliness model.\n\nThey toured various locations, including the Devguradiya trenching ground plant, door-to-door waste collection system, ICCC command center, and garbage transfer stations, to understand how the city maintains its cleanliness.\n\nIndore Police Cracks Down On RK Club, Seizes DJ System For Blasting Loud Music During Banned Hours\n\nPune Municipal Commissioner Rajendra Bhonsle and MLA Hemant Rasane praised Indore’s efforts, stating that the city has become an inspiration for the entire country.\n\nThey expressed plans to implement Indore’s waste management system in Pune.\n\nNIFT Entrance Exam 2025 Tomorrow: Key Details, Guidelines & Exam Day Instructions\n\nPriyanka Chopra Dazzles In Bulgari Necklace That Has 62 Emeralds And 71 Carats Of Diamonds At Brother Siddharth Chopra's Wedding\n\nAir India's Only Direct Mumbai-Melbourne Flight To Turn Seasonal After March 2025, Impacting 30,000+ Passengers\n\nWho Is Tarvinder Singh Marwah? BJP Candidate Who Won Against Manish Sisodia In Jangpura Constituency\n\nIndore Municipal Commissioner Shivam Verma and Additional Commissioner Abhilash Mishra welcomed the team and explained the city’s cleanliness model. Verma highlighted that earlier, garbage bins placed at various locations would overflow, causing waste accumulation.\n\nTo address this, Indore became bin-free and introduced a door-to-door waste collection system, which is monitored via GPS to ensure timely and efficient collection.\n\nIndore Heritage Walk: IAS Officers Experience Indore’s Heritage & Sanitation Model On Special Walk\n\nCity Segregates Waste In 6 Categories\n\nThe city now segregates waste into six categories and has launched initiatives like Thaila Bank, Bartan Bank, Disposal-Free Areas, Zero Waste Events, and drain cleaning campaigns.\n\nThe team observed how collected waste is transported to garbage transfer stations (GTS) and then processed at mechanized material recovery facilities (MRF), dry waste processing plants, and compost plants.\n\nThe delegation also visited Asia’s largest biogas CNG plant at Devguradiya, where wet waste is converted into biogas used for public transport.\n\nOfficials noted that Indore’s success has changed the perception of cleanliness across India, and Pune aims to adopt similar practices.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/300-member-pune-team-visits-indore-plans-to-adopt-its-cleanliness-model",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2025-02-08/u9s7hfv5/6297ebc6-8f80-428d-9377-28f59cab5588.jpg",
+            "publishedAt": "2025-02-08 08:17:07"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore’s Smart City Model Gains Global Recognition; 10 Indonesian Cities Show Interest",
+            "description": "None",
+            "content": "This development came at the fourth Climate Resilient and Inclusive Cities (CRIC) thematic panel on environmental and climate financing organised by All India Institute of Local Self-Government (AIILSG) and United Cities and Local Governments Asia Pacific (UCLG ASPAC) in Kochi from February 4 to 6, 2025.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indores-smart-city-model-gains-global-recognition-10-indonesian-cities-show-interest",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2025-02-07/pg865c4k/Arsh-SMART-1.jpg",
+            "publishedAt": "2025-02-08 07:36:44"
+        },
+        {
+            "sourceName": "Not Found",
+            "author": "Staff Reporter",
+            "title": "Indore Heritage Walk: IAS Officers Experience Indore’s Heritage & Sanitation Model On Special Walk",
+            "description": "None",
+            "content": "The workshop, held under the aegis of the ministry of rural development, Government of India, focused on discussions and implementation strategies for the new guidelines of the rural skill development and self-employment scheme.",
+            "URLtoNews": "https://www.freepressjournal.in/indore/indore-heritage-walk-ias-officers-experience-indores-heritage-sanitation-model-on-special-walk",
+            "URLtoNewsImage": "https://media.assettype.com/freepressjournal/2025-02-07/zx32iet0/Arsh-HERITAGE-1.jpg",
+            "publishedAt": "2025-02-08 06:17:17"
+        }
+    ]
+}
