@@ -1,3 +1,6 @@
+<p> I have added an <a href="example_response.txt">example_response.txt</a> file for reference</p></br>
+
+
 <h2>🚀 How to Run the Project locally:</h2>
 
 <h4>NOTE - Make sure to have redis downloaded locally to enable caching</h4>
